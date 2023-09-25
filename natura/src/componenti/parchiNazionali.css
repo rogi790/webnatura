@@ -1,0 +1,27 @@
+.div-with-bg-pn
+{
+        display: inline-block;
+        background-color: #1f922e;
+        height: 350px;
+        
+}
+
+#div-card-pn
+{
+        justify-content: center;
+        text-align: center;
+        width: 100px;
+}
+
+#div-with-bg-pn
+{
+        background-image: url('../utilities/img/tarta.jpg');
+        background-size: cover;
+        background-position:center ;
+        background-repeat: no-repeat;
+        height: 350px;
+        margin-top: 250px;
+        display: inline-block;
+        justify-content: center;
+        color: white;
+}

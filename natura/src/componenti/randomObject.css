@@ -1,0 +1,23 @@
+#div-with-bg-parchi {
+    background-image: url('../immagini/parchiImmagine.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+
+    display: inline-block;
+    justify-content: center;
+    color: white;
+}
+
+#div-with-bg-marine {
+    background-image: url('../immagini/areeMarineImmagine.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+
+    display: inline-block;
+    justify-content: center;
+    color: white;
+}

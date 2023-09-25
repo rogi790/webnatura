@@ -1,0 +1,56 @@
+.div-with-bg-pn
+{
+        display: inline-block;
+        background-color: #1f922e;
+        height: 350px;
+        
+}
+
+#div-card-pn-am
+{
+        justify-content: center;
+        text-align: center;
+        width: 100px;
+}
+
+#div-with-bg-amp
+{
+        background-image: url('../utilities/img/tarta.jpg');
+        background-size: cover;
+        background-position:center ;
+        background-repeat: no-repeat;
+        height: 350px;
+        margin-top: 250px;
+        display: inline-block;
+        justify-content: center;
+        color: white;
+}
+
+#div-with-bg-pn
+{
+        background-image: url('../utilities/img/GS.jpg');
+        background-size: cover;
+        background-position:top ;
+        background-repeat: no-repeat;
+        height: 350px;
+        margin-top: 250px;
+        display: inline-block;
+        justify-content: center;
+        color: white;
+}
+.div-with-bg-amp
+{
+        display: inline-block;
+        background-color: #29aae6;
+        height: 350px;  
+}
+
+#search-bar-am
+{
+        margin-top: 50px;
+        margin-right: 10px;
+        margin-left: 300px;
+        display: inline-flex;
+}
+
+
